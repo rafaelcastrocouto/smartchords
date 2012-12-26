@@ -35,11 +35,15 @@ Its very simple and this is how it works:
     
     <script src="smartchords.js"></script>
     
-    <&lt;/html&gt; &lt;/body&gt; &lt;/pre&gt;
+    &lt;/html&gt; &lt;/body&gt; &lt;/pre&gt;
   
 If you have persistent connection you can use my Github link:
 
     <script src="http://rafaelcastrocouto.github.com/smartchords/smartchords.js"></script>
+    
+The song tone will aways be the first chord.
+
+Bundled with an auto scroll button.
 
 Example:
 
@@ -78,4 +82,4 @@ Example:
     
     </pre></body></html>
   
-The song tone will aways be the first chord.
+#Enjoy!
