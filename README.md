@@ -18,7 +18,8 @@ Its very simple and this is how it works:
 2. Put all your chords inside b tags line by line (that's boring...)
 
     &lt;html&gt; &lt;body&gt; &lt;pre&gt;
-    <b>paste your chords here... </b>
+    
+    &lt;b&gt;paste your chords here... &lt;/b&gt;
     
     paste your lyrics here...
     
@@ -27,7 +28,9 @@ Its very simple and this is how it works:
 3. Link the smartchords.js file before the end of your file (that's it!)
 
     &lt;html&gt; &lt;body&gt; &lt;pre&gt;
+    
     &lt;b&gt;paste your chords here... &lt;/b&gt;
+    
     paste your lyrics here...
     
     <script src="smartchords.js"></script>
