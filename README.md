@@ -9,30 +9,30 @@ Its very simple and this is how it works:
 
 1. Create a html file and paste your song inside a pre tag (that's easy!)
 
-  &lt;html&gt; &lt;body&gt; &lt;pre&gt;
+    <html> <body> <pre>
     
     paste your song here... 
     
-  &lt;/pre&gt; &lt;/body&gt; &lt;/html&gt;
+    </pre></body></html>
   
 2. Put all your chords inside b tags line by line (that's boring...)
 
-  &lt;html&gt; &lt;body&gt; &lt;pre&gt;
-    &lt;b&gt;paste your chords here... &lt;/b&gt;
+    <html> <body> <pre>
+    <b>paste your chords here... </b>
     
     paste your lyrics here...
     
-  &lt;/pre&gt; &lt;/body&gt; &lt;/html&gt;
+    </pre></body></html>
   
 3. Link the smartchords.js file before the end of your file (that's it!)
 
-  &lt;html&gt; &lt;body&gt; &lt;pre&gt;
-    &lt;b&gt;paste your chords here... &lt;/b&gt;
+    <html> <body> <pre>
+    <b>paste your chords here... </b>
     paste your lyrics here...
     
-    &lt;script src="smartchords.js"&gt;&lt;/script&gt;
+    <script src="smartchords.js"></script>
     
-  &lt;/pre&gt; &lt;/body&gt; &lt;/html&gt;
+    </pre></body></html>
   
 If you have persistent connection you can use my Github link:
 
@@ -40,66 +40,39 @@ If you have persistent connection you can use my Github link:
 
 Example:
 
-  &lt;html&gt;&lt;body&gt;&lt;pre&gt;
+    <html><body><pre>
   
-    Tom:&lt;b&gt;D&lt;/b&gt;&lt;br&gt;
-    
-    &lt;b&gt;D6/9                  E7/9&lt;/b&gt;
-    
+    Tom:<b>D</b><br>
+    <b>D6/9                  E7/9</b>
     O pato vinha cantando alegremente, quém, quém
-    
-    &lt;b&gt;                     Em7/9     A6/7&lt;/b&gt;
-    
+    <b>                     Em7/9     A6/7</b>
     Quando um marreco sorridente pediu
-    
-    &lt;b&gt;                       D6/9&lt;/b&gt;
-    
+    <b>                       D6/9</b>
     Pra entrar também no samba, no samba, no samba
-    
-    &lt;b&gt;  D6/9                         E7(9)&lt;/b&gt;
-    
+    <b>  D6/9                         E7(9)</b>
     O ganso gostou da dupla e fez também quém, quém
-    
-    &lt;b&gt;                         Em7/9       A6/7&lt;/b&gt;
-    
+    <b>                         Em7/9       A6/7</b>
     Olhou pro cisne e disse assim "vem, vem"
-    
-    &lt;b&gt;                      D6/9 G6/7 D6/9        D7(9)&lt;/b&gt;
-    
+    <b>                      D6/9 G6/7 D6/9        D7(9)</b>
     Que o quarteto ficará bem, muito bom, muito bem
-    
-    &lt;b&gt;             G7M&lt;/b&gt;
-    
+    <b>             G7M</b>
     Na beira da lagoa foram ensaiar
-    
-    &lt;b&gt;       E7(9)         A6/7     D6/9 D7(9)&lt;/b&gt;
-    
+    <b>       E7(9)         A6/7     D6/9 D7(9)</b>
     Para começar o tico-tico no fubá
-    
-    &lt;b&gt;          G7M      Gm6        D7+/F# D7(9)&lt;/b&gt;
-    
+    <b>          G7M      Gm6        D7+/F# D7(9)</b>
     A voz do pato era mesmo um desacato
-    
-    &lt;b&gt;          G7M       Gm6       D7+/F# D7(9) G7M&lt;/b&gt;
-    
+    <b>          G7M       Gm6       D7+/F# D7(9) G7M</b>
     Jogo de cena com o ganso era mato
-    
-    &lt;b&gt;         Gm6      D7+/F#                E7(9)&lt;/b&gt;
-    
+    <b>         Gm6      D7+/F#                E7(9)</b>
     Mas eu gostei do final quando caíram n'água
-    
-    &lt;b&gt; A6/7          D6/9&lt;/b&gt;
-    
+    <b> A6/7          D6/9</b>
     E ensaiando o vocal
-    
-    &lt;b&gt;(D6/9 E7(9) Em7/9 A6/7)&lt;/b&gt;
-    
+    <b>(D6/9 E7(9) Em7/9 A6/7)</b>
     quém, quém, quém, quém
-    
     quém, quém, quém, quém
     
     <script src="smartchords.js"></script>
     
-  &lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+    </pre></body></html>
   
 The song tone will aways be the first chord.
