@@ -1,52 +1,49 @@
-#[Demo](http://rafaelcastrocouto.github.com/smartchords "Demo")
+[Demo](http://rafaelcastrocouto.github.com/smartchords "Demo")
 
 Smartchords
 =======
 
 This is a music tool I created to my smartphone so I could play some chords anywhere!
 
+The song tone will always be the first chord.
+
 Its very simple and this is how it works:
 
 1. Create a html file and paste your song inside a pre tag (that's easy!)
-
-    &lt;html&gt; &lt;body&gt; &lt;pre&gt;
+```
+    <html> <body> <pre>
     
-    paste your song here... 
+    paste your song here...
     
-    &lt;/html&gt; &lt;/body&gt; &lt;/pre&gt;
-  
+    </html> </body> </pre>
+```
 2. Put all your chords inside b tags line by line (that's boring...)
-
-    &lt;html&gt; &lt;body&gt; &lt;pre&gt;
+```
+    <html> <body> <pre>
     
-    &lt;b&gt;paste your chords here... &lt;/b&gt;
+    <b>paste your chords here...</b>
     
     paste your lyrics here...
     
-    &lt;/html&gt; &lt;/body&gt; &lt;/pre&gt;
-  
+    </html> </body> </pre>
+```  
 3. Link the smartchords.js file before the end of your file (that's it!)
-
-    &lt;html&gt; &lt;body&gt; &lt;pre&gt;
+```
+    <html> <body> <pre>
     
-    &lt;b&gt;paste your chords here... &lt;/b&gt;
+    <b>paste your chords here...</b>
     
     paste your lyrics here...
     
     <script src="smartchords.js"></script>
     
-    &lt;/html&gt; &lt;/body&gt; &lt;/pre&gt;
-  
-If you have persistent connection you can use my Github link:
+    </html> </body> </pre>
+```
 
-    <script src="http://rafaelcastrocouto.github.com/smartchords/smartchords.js"></script>
-    
-The song tone will aways be the first chord.
+*Bonus: Bundled with an auto scroll button.*
 
-Bundled with an auto scroll button.
-
-Example:
-
+**Example:**
+```
     <html><body><pre>
   
     Tom:<b>D</b><br>
@@ -81,5 +78,5 @@ Example:
     <script src="smartchords.js"></script>
     
     </pre></body></html>
-  
-#Enjoy!
+```  
+*Enjoy!*
